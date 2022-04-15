@@ -6,3 +6,5 @@ def func1(a, b) -> str:
 
 def func2(a,b, c) -> int:
     return os.getcwd()
+
+func1()
